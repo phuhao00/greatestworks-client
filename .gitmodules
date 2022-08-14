@@ -1,0 +1,4 @@
+
+[submodule "Assets/Scripts/Network/proto"]
+	path = Assets/Scripts/Network/proto
+	url = https://github.com/phuhao00/greatestworks-proto.git
